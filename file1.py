@@ -1,7 +1,3 @@
-﻿# Initial content in file1.py
+# Combined changes from both branches:
+# Conflicting changes made in branch2
 # Changes made in branch1
-# Changes made in branch1
-# Changes made in branch1
-#combined changes:
-#conflicting changes in branch1
-#changes made in branch2
